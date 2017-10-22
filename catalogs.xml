@@ -1,0 +1,34 @@
+<catalog>
+    <cd>
+        <title>Empire Burlesque</title>
+        <artist>Bob</artist>
+        <country>USA</country>
+        <company>Columbia</company>
+        <price>10.9</price>
+        <year>1985</year>
+    </cd>
+    <cd>
+        <title>Hide your heart</title>
+        <artist>Jim</artist>
+        <country>UK</country>
+        <company>CBS Records</company>
+        <price>8.9</price>
+        <year>1988</year>
+    </cd>
+    <cd>
+        <title>Still got the blues</title>
+        <artist>Tom</artist>
+        <country>UK</country>
+        <company>Virgin Records</company>
+        <price>10.2</price>
+        <year>1990</year>
+    </cd>
+    <cd>
+        <title>This is UK</title>
+        <artist>Lee</artist>
+        <country>UK</country>
+        <company>Virgin Records</company>
+        <price>12.20</price>
+        <year>1990</year>
+    </cd>
+</catalog>

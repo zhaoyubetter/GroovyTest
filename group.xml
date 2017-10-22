@@ -1,0 +1,16 @@
+<grouping>
+  <country name='USA'>
+    <year year='1985'>
+      <title>Empire Burlesque</title>
+    </year>
+  </country>
+  <country name='UK'>
+    <year year='1988'>
+      <title>Hide your heart</title>
+    </year>
+    <year year='1990'>
+      <title>Still got the blues</title>
+      <title>This is UK</title>
+    </year>
+  </country>
+</grouping>

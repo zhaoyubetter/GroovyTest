@@ -1,0 +1,20 @@
+<library>
+  <book>
+    <title>Groovy</title>
+    <author>Lao Zhang</author>
+    <publisher>人民邮电出版社</publisher>
+    <isbn number='11111111' />
+  </book>
+  <book>
+    <title>Java In Mode</title>
+    <author>Zhang</author>
+    <publisher>日报出版社</publisher>
+    <isbn number='55555555' />
+  </book>
+  <book>
+    <title>Kotlin in Action</title>
+    <author>Jim</author>
+    <publisher>对外出版社</publisher>
+    <isbn number='33333333' />
+  </book>
+</library>
