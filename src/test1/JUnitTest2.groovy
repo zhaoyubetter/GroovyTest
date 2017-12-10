@@ -55,6 +55,7 @@ class JUnitTest2 {
     @Test
     void test5() {
         def names = ['better': 'zhao', 'joy': 'chen']
+        println(names.getClass().getName())
 // 取值
         println(names['better'])        // zhao
         println(names.get('better'))    // zhao
@@ -62,6 +63,7 @@ class JUnitTest2 {
 // 赋值
         names['better'] = [1, 2, 3, 4]
         println(names)              // [better:[1, 2, 3, 4], joy:chen]
+        println(names.getClass().getName())
         println(names.keySet())     // [better, joy]
         println(names.values())     // [[1, 2, 3, 4], chen]
     }
@@ -86,7 +88,16 @@ class JUnitTest2 {
         def b = [13, 14, 15]
         a.removeAll(b)
         println(a)
+        println(a.getClass().getName())     // 默认ArrayList
+        println(([11,22,33] as LinkedList).getClass().getName())
+
+        println(a[20])
+        println(a.size())
+
+        println((1..5).getClass().getName())  //
+
     }
+
 
     @Test
     void test8() {
